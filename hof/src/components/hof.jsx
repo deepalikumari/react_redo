@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class HigherOrderFunction extends Component {
+export default class HOF extends Component {
   constructor() {
     super();
     this.state = {
